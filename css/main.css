@@ -35,10 +35,6 @@ h3 {
   color: var(--primary-color);
 }
 
-h4{
-  color: var(--primary-color);
-}
-
 a {
   color: var(--primary-color);
 }
@@ -48,12 +44,12 @@ section {
   position: relative;
 }
 
-.cv {
+article {
   max-width: 900px;
   margin: 0 auto;
 }
 
-.contacts {
+header {
   margin-bottom: 2em;
 }
 
@@ -63,7 +59,7 @@ section {
   display: flex;
 }
 
-.contact__type {
+aside {
   min-width: 90px;
 }
 

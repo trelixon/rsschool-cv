@@ -40,20 +40,21 @@ section {
   position: relative;
 }
 
-.cv {
+article {
   max-width: 900px;
   margin: 0 auto;
 }
-.contacts {
+header {
   margin-bottom: 2em;
 }
 
 .contact {
   display: flex;
 
-  &__type {
-    min-width: 90px;
-  }
+}
+
+aside {
+  min-width: 90px;
 }
 
 .experience {
